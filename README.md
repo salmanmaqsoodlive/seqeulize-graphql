@@ -1,0 +1,1 @@
+# seqeulize-graphql
